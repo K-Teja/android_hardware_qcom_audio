@@ -56,6 +56,7 @@
 #else
 #include <pthread.h>
 #endif
+#include <pthread.h>
 
 #ifdef SPKR_PROT_ENABLED
 
