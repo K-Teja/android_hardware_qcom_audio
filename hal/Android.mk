@@ -318,7 +318,7 @@ LOCAL_SHARED_LIBRARIES := \
 	liblog \
 	libcutils \
 	libtinyalsa \
-	libtinycompress_vendor \
+	libtinycompress \
 	libaudioroute \
 	libdl \
 	libaudioutils \
